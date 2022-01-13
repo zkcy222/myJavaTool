@@ -5,6 +5,8 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 
+
+//提取指定网页源码
 public class SocketConnection {
     public static String getURLSource(String url) throws IOException {
         URL urlObject = new URL(url);
