@@ -4,3 +4,8 @@
 ## 001-wxArticleInfo
 
 通过微信文章链接获取封面图和标题等信息
+
+## 002-mybatisUtil
+
+自动生成对象的resultMap
+
